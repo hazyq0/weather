@@ -1,12 +1,13 @@
-Weather Data Retrieval Using OpenWeatherMap API
+# Weather Data Retrieval Using OpenWeatherMap API
 This C++ program fetches weather data from the OpenWeatherMap API based on user input for a city name. It then displays the current temperature, humidity, and weather description for the specified city.
 
-Dependencies
+# Dependencies
 This program utilizes the following dependencies:
 
 • cURL: A library for transferring data with URLs.
 • nlohmann/json: A JSON library for modern C++.
-Functionality
+
+# Functionality
 1. User Input: The program prompts the user to enter the name of a city.
 2. API Request: It constructs a URL to query the OpenWeatherMap API for weather data of the specified city.
 3. HTTP Request: Utilizing cURL, the program performs an HTTP request to fetch the weather data from the API.
