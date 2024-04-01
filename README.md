@@ -24,8 +24,11 @@ To run the program:
 
 # Notes
 • Ensure that you have an active internet connection to fetch weather data from the OpenWeatherMap API.
+
 • API key: This program utilizes a predefined API key (69b829bd23008ef0443d455a64ca474f). You may need to replace it with your own API key if you intend to use the program extensively.
+
 • Error Handling: The program provides error messages if it fails to fetch weather data or encounters invalid JSON responses.
+
 • Dependencies: Make sure to install and link the required dependencies (cURL and nlohmann/json) before compiling the program.
 
 # License
