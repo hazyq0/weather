@@ -5,6 +5,7 @@ This C++ program fetches weather data from the OpenWeatherMap API based on user 
 This program utilizes the following dependencies:
 
 • cURL: A library for transferring data with URLs.
+
 • nlohmann/json: A JSON library for modern C++.
 
 # Functionality
